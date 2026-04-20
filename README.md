@@ -52,4 +52,4 @@ The versioning discipline is strict by design. A specification that silently cha
 
 ## Contact
 
-This is a personal project by [Andrew Allen](https://www.linkedin.com/in/andrewallenuk), undertaken in a personal capacity. It is not affiliated with or endorsed by any UK government department or any employer.
+This is a personal project by [Andrew Allen](https://www.linkedin.com/in/andrewallen), undertaken in a personal capacity. It is not affiliated with or endorsed by any UK government department or any employer.
