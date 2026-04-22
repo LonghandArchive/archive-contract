@@ -44,11 +44,13 @@ The versioning discipline is strict by design. A specification that silently cha
 
 - [`civilservicejobs-collector`](https://github.com/longhandarchive/civilservicejobs-collector) — the first concrete collector. Its current output is the reference implementation from which version 0.1 of the contract is being drawn.
 - [`platform`](https://github.com/longhandarchive/platform) — the first consumer of archives produced under this contract. Its sync layer reads collector archives only through the shape guaranteed here.
-- [`governance`](https://github.com/longhandarchive/governance) — cross-cutting decisions that apply across the organisation, including the rule that personal data is redacted at the projection boundary rather than at the collector.
+- [`governance`](https://github.com/longhandarchive/governance) — cross-cutting decisions that apply across the organisation, including the licensing rule for documentation repositories and the personal data redaction policy at the projection boundary.
 
-## Licence
+## Licence and contribution
 
-*The contract document itself is not currently published under an open licence. A licence will be applied when the repository is made public.*
+This repository is available under [Creative Commons Attribution 4.0 International](./LICENSE). Read, quote, adapt, and reuse the specification with attribution.
+
+External contribution to the contract is not currently accepted. See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for the current posture and the channels available for discussion.
 
 ## Contact
 
