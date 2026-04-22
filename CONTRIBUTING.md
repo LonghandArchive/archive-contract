@@ -1,6 +1,6 @@
 # Contributing
 
-The Longhand Archive is a personal project, built in public, undertaken in a private capacity by [Andrew Allen](https://github.com/longhandarchive). This document describes how the archive contract engages with external interest.
+The Longhand Archive is a personal project, built in public, undertaken in a private capacity by [Andrew Allen](https://andrewallen.uk/). This document describes how the archive contract engages with external interest.
 
 ## What this repository is for
 
