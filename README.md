@@ -54,4 +54,4 @@ External contribution to the contract is not currently accepted. See [`CONTRIBUT
 
 ## Contact
 
-This is a personal project by [Andrew Allen](https://andrewallen.uk/), undertaken in a personal capacity. It is not affiliated with or endorsed by any UK government department or any employer.
+This is a personal project by [Andrew Allen](https://andrewallen.uk/), undertaken in a personal capacity. It is not affiliated with or endorsed by any UK government department or any other organisation.
